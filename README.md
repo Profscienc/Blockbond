@@ -1,6 +1,6 @@
 # Blockbond White Paper
                                                        Blockbond
-                                                   auteur : FULL BLACK
+                                                   Auteur : FULL BLACK
                                                     www.Blockbond.io
 
 
