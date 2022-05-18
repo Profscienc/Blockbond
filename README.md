@@ -39,9 +39,11 @@ Token Sécurity : BOTCOIN
 Langages : Python, JS, Solidity, Docker
 
 
+
 ### Model
 
 Le proof of registration permet au moyen smart contrat d'identifier et d'enregistrer de manière décentraliser et sécuriser sur la blockbond le pays et le réseau téléphonique qu'utilise un client lors d'une transaction.
+
 
 ### Consensus
 
@@ -59,6 +61,8 @@ Apporter encore plus de sécuriser afin d'éviter les cyberattaques très sophis
 |PYTHON    | : Web App
  _______ 
 |  DOCKER  | : Core
+
+
 
 
 
