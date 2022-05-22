@@ -1,0 +1,5 @@
+docker build --tag blockbond .
+docker run --publish 8000:8000 blockbond
+docker-compose build
+docker-compose run --rm app django-admin startproject ioproject.
+docker-compose up
