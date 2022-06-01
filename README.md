@@ -1,4 +1,4 @@
-# Blockbond White Paper
+# Blockbond White Paper [DEPRECATED]
                                                        Blockbond
                                                    Auteur : FULL BLACK
                                                     www.Blockbond.io
@@ -123,7 +123,9 @@ Dernières activités : GroupeModulo
 
 Palmarès : 27 canettes de Coca Cola en 24 heures
 
+ _______ 
+        
 
 
 
-
+https://github.com/OS-CHAIR-MAN/Blockbond
